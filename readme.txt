@@ -1,1 +1,3 @@
-Hello kitty
+Hello kitty.
+
+Second line of text.
